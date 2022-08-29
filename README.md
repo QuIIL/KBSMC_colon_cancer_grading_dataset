@@ -54,7 +54,11 @@ For more detail, please refer to the paper above.
 │ └── wsi03 
 
 ### Notes:
+Train+Val+Test 1
 Class label is the last digit in image name (bolden), for example 100100_19493_**0**.jpg belongs to benign class.
+
+Test 2
+Class label is the (last digit-1) in image name (bolden), for example 100100_19493_**1**.jpg belongs to benign class.
 
 
 ## Simple way to load the dataset
