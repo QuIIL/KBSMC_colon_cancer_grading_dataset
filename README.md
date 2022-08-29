@@ -7,7 +7,7 @@ Joint Categorical and Ordinal Learning for Cancer Grading in Pathology Images \
 ![](colon_tma_tissue_sample.png)
 
 ## Download
-Google drive:
+Google drive:\
 Training + validation + testing I: [[link]](https://drive.google.com/file/d/1GznDqWUiaiOqllHn1isKFcyLMX9lQcBg/view?usp=sharing) \
 Testing II (Independent test set): [[link]](https://drive.google.com/file/d/10bJ-2kjIH7VZor-Hr7VeZGApMGrGCAI4/view?usp=sharing)
 
