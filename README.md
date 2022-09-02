@@ -1,8 +1,12 @@
 # KBSMC colon cancer grading dataset repository
 
-This repository provides the KBSMC colon cancer grading dataset that has been introduced in the paper: \
-Joint Categorical and Ordinal Learning for Cancer Grading in Pathology Images \
-[Link](https://www.sciencedirect.com/science/article/pii/S1361841521002516) to paper on Medical Image Analysis. <br />
+This repository provides the KBSMC colon cancer grading dataset that has been introduced in the paper: 
+
+Trinh Thi Le Vuong, Kyungeun Kim, Boram Song, Jin Tae Kwak,
+
+"Joint Categorical and Ordinal Learning for Cancer Grading in Pathology Images", 
+
+which is published in [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841521002516), 2021, 73. <br />
 
 ![](colon_tma_tissue_sample.png)
 
