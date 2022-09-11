@@ -6,7 +6,7 @@ Trinh Thi Le Vuong, Kyungeun Kim, Boram Song, Jin Tae Kwak,
 
 "Joint Categorical and Ordinal Learning for Cancer Grading in Pathology Images", 
 
-which is published in [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841521002516), 2021, 73. <br />
+which is published in [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841521002516), 2021, 73. [Code](https://github.com/QuIIL/JCO_Learning-pytorch) <br />
 
 ![](colon_tma_tissue_sample.png)
 
