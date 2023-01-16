@@ -12,7 +12,7 @@ which is published in [Medical Image Analysis](https://www.sciencedirect.com/sci
 
 ## Download
 Google drive:\
-Training + validation + testing I: [[link]](https://drive.google.com/file/d/1GznDqWUiaiOqllHn1isKFcyLMX9lQcBg/view?usp=sharing) \
+Training + validation + testing I: [[link]](https://drive.google.com/file/d/11Bd-QMk1ouDr2WwcFVIYHctqJAd6NKUT/view?usp=sharing) \
 Testing II (Independent test set): [[link]](https://drive.google.com/file/d/10bJ-2kjIH7VZor-Hr7VeZGApMGrGCAI4/view?usp=sharing)
 
 ## Brief description
